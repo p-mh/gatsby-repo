@@ -1,3 +1,3 @@
-##My first post
+# My first post
 
 Hello, this is my first post !
